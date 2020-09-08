@@ -2,11 +2,14 @@
 
 
 
-To start Frontend
+To start Front End
 
 npm install
+
 npm install bulma --save
+
 npm install --save npm run vue-style-loader
+
 npm install node-sass sass-loader
 
 # serve with hot reload at localhost:8080
@@ -114,5 +117,18 @@ http://127.0.0.1:8000/admin/
 http://127.0.0.1:8000/api/   with GET   to see all participants list 
 
 http://127.0.0.1:8000/api/   with POST   to Add as participant 
+
+<img width="1440" alt="Screenshot 2020-09-08 at 2 54 10 PM" src="https://user-images.githubusercontent.com/10574792/92458618-470b1400-f1e3-11ea-8ff2-9ddd7de5ec30.png">
+
+<img width="1438" alt="Screenshot 2020-09-08 at 12 21 18 PM" src="https://user-images.githubusercontent.com/10574792/92458736-6dc94a80-f1e3-11ea-8f34-287913f5cafb.png">
+
+<img width="1440" alt="Screenshot 2020-09-08 at 12 21 52 PM" src="https://user-images.githubusercontent.com/10574792/92458798-83d70b00-f1e3-11ea-828c-94002db42c86.png">
+
+
+<img width="1440" alt="Screenshot 2020-09-08 at 12 21 36 PM" src="https://user-images.githubusercontent.com/10574792/92458854-94878100-f1e3-11ea-8959-dec98fd32a91.png">
+
+
+
+
 
 
