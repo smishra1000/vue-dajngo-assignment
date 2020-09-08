@@ -110,3 +110,9 @@ ContentType : application/json
 
 http://127.0.0.1:8000/admin/
 
+
+http://127.0.0.1:8000/api/   with GET   to see all participants list 
+
+http://127.0.0.1:8000/api/   with POST   to Add as participant 
+
+
