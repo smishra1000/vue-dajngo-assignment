@@ -43,8 +43,8 @@
           <div class="control">
             <div class="select">
               <select v-model="participant_type" on:change="changeType(participant_type)">
-                <option value="0">Band</option>
-                <option value="1">Carriage</option>
+                <option value="1">Band</option>
+                <option value="2">Carriage</option>
               </select>
             </div>
           </div>
@@ -78,7 +78,7 @@ export default {
   name: "addparticipant",
   data() {
     return {
-      participant_type:0,
+      participant_type:1,
       foundation_date:"",
       email:"",
       last_name:"",
