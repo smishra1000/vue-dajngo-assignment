@@ -120,6 +120,7 @@ http://127.0.0.1:8000/api/   with POST   to Add as participant
 
 <img width="1440" alt="Screenshot 2020-09-08 at 2 54 10 PM" src="https://user-images.githubusercontent.com/10574792/92458618-470b1400-f1e3-11ea-8ff2-9ddd7de5ec30.png">
 
+<img width="1440" alt="Screenshot 2020-09-08 at 3 00 53 PM" src="https://user-images.githubusercontent.com/10574792/92459273-1aa3c780-f1e4-11ea-8f08-fe7c76fb8250.png">
 
 
 <img width="1440" alt="Screenshot 2020-09-08 at 12 21 52 PM" src="https://user-images.githubusercontent.com/10574792/92458798-83d70b00-f1e3-11ea-828c-94002db42c86.png">
