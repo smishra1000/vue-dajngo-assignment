@@ -23,7 +23,7 @@
                 {{ row.email }}
               </td>
               <td>
-                {{ row.participant_type }}
+                {{ row.participant_type==1 ? 'Band' : 'Carriage' }}
               </td>
               <td>
                 {{ row.ranking }}
