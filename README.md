@@ -118,15 +118,14 @@ http://127.0.0.1:8000/api/   with GET   to see all participants list
 
 http://127.0.0.1:8000/api/   with POST   to Add as participant 
 
-<img width="1440" alt="Screenshot 2020-09-08 at 2 54 10 PM" src="https://user-images.githubusercontent.com/10574792/92458618-470b1400-f1e3-11ea-8ff2-9ddd7de5ec30.png">
+<img width="1440" alt="Screenshot 2020-09-08 at 3 23 51 PM" src="https://user-images.githubusercontent.com/10574792/92462156-b8e55c80-f1e7-11ea-9918-c9baa035f9be.png">
 
-<img width="1440" alt="Screenshot 2020-09-08 at 3 00 53 PM" src="https://user-images.githubusercontent.com/10574792/92459273-1aa3c780-f1e4-11ea-8f08-fe7c76fb8250.png">
+<img width="1439" alt="Screenshot 2020-09-08 at 3 24 03 PM" src="https://user-images.githubusercontent.com/10574792/92462193-c569b500-f1e7-11ea-968a-f8d9781cbb3c.png">
 
+<img width="1440" alt="Screenshot 2020-09-08 at 3 24 35 PM" src="https://user-images.githubusercontent.com/10574792/92462271-e500dd80-f1e7-11ea-89ab-7d77cd3a4f0c.png">
 
-<img width="1440" alt="Screenshot 2020-09-08 at 12 21 52 PM" src="https://user-images.githubusercontent.com/10574792/92458798-83d70b00-f1e3-11ea-828c-94002db42c86.png">
+<img width="1440" alt="Screenshot 2020-09-08 at 3 24 44 PM" src="https://user-images.githubusercontent.com/10574792/92462323-f4802680-f1e7-11ea-8924-b51e5556ec48.png">
 
-
-<img width="1440" alt="Screenshot 2020-09-08 at 12 21 36 PM" src="https://user-images.githubusercontent.com/10574792/92458854-94878100-f1e3-11ea-8959-dec98fd32a91.png">
 
 
 
