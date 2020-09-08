@@ -1,32 +1,3 @@
-# vue-dajngo-assignment
-
-
-
-To start Frontend
-
-npm install
-npm install bulma --save
-npm install --save npm run vue-style-loader
-npm install node-sass sass-loader
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-Browse here
-
-http://localhost:8080
-
-
-
-
-
-**To Start backend**
-
-
- 
 # Details of Development
 
 ## Adding MySql db
@@ -105,8 +76,3 @@ Admindemo@123
 
 
 ContentType : application/json
-
-
-
-http://127.0.0.1:8000/admin/
-
